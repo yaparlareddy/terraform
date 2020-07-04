@@ -35,12 +35,22 @@
 #### Azure
 
 - [Getting started with Terraform in Azure](https://github.com/collabnix/terraform/blob/master/beginners/azure/README.md)
-- [Create a Virtual Network in Azure](https://github.com/collabnix/terraform/blob/master/beginners/azure/virtualnetwork/README.md)
+- [Create a Virtual Network in Azure](https://github.com/collabnix/terraform/blob/master/beginners/azure/virtualnetwork)
+- [Create a Linux Virtual Machine in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/linuxVM)
+- [Create a Windows-10 Virtual Machine in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/windowsVM)
+- [Create a Storage account and Host a static website in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/storageAccount)
+- [Create Multiple Resources in Azure using for_each](https://github.com/collabnix/terraform/tree/master/beginners/azure/multiple_resources) 
+- [How to use Modules](https://github.com/collabnix/terraform/tree/master/beginners/azure/module_example)
 
 ### GCP
 
-- Launch a VM
-- TBD
+- [Setting up Terraform for Google Cloud Platform](https://github.com/collabnix/terraform/blob/master/beginners/gcp/README.md)
+- Terraform vs Google Deployment Manager
+- Launch a Compute Engine Instance
+- Create a New VPC and Public Subnet
+- Auto Scale and Load Balance the Managed Instance Groups
+- Deploy a web server
+- Cleaning Up
 
 ## Managing Terraform State
 
